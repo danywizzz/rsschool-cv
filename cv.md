@@ -6,10 +6,10 @@ I am a hardworking, ambitious person and excellent team worker. Highly motivated
 
 ## Contacts
 **Location**: Vladivostok, Russia
-**Mail**: razumnyyd@gmail.com
-**Discord**: highwizzz#7538
-[Telegram](https://t.me/jayjosimons)
-[Github](https://github.com/danywizzz)
+* **Mail**: razumnyyd@gmail.com
+* [Telegram](https://t.me/jayjosimons)
+* [Github](https://github.com/danywizzz)
+* **Discord**: highwizzz#7538
 
 ## Skills
 * Javascript
@@ -19,8 +19,8 @@ I am a hardworking, ambitious person and excellent team worker. Highly motivated
 * Photoshop
 
 ## Education
-Maritime State University named after admiral G.I. Nevelskoy: _Faculty of Information Security_
-HTMLAcademy: _Basic HTML, CSS and JavaScript_
+* Maritime State University named after admiral G.I. Nevelskoy: _Faculty of Information Security_
+* HTMLAcademy: _Basic HTML, CSS and JavaScript_
 
 ## Language
 * Russian(Native)
