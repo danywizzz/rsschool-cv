@@ -18,3 +18,25 @@ I am a hardworking, ambitious person and excellent team worker. Highly motivated
 * Figma
 * Photoshop
 
+## Education
+Maritime State University named after admiral G.I. Nevelskoy: _Faculty of Information Security_
+HTMLAcademy: _Basic HTML, CSS and JavaScript_
+
+## Language
+* Russian(Native)
+* English B1
+
+## Code Example
+```javascript
+const result1 = ingridients.reduce(  
+  (bowl, ingridient, index) => {  
+   if (task.indexOf(ingridient.product) >= 0) {  
+     if (bowl.length === 0) {  
+        return `${ingridient.action} ${ingridient.product}`  
+     }  
+     return `${bowl}, ${ingridient.action} ${ingridient.product}`  
+   }  
+   return bowl;  
+  },  
+  "" )
+  ```
