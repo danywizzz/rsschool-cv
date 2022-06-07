@@ -39,15 +39,15 @@
         <li>English B1</li></ul></div>
     <div class="section-code">
         <h2>Code Example</h2>
-            <pre>const result1 = ingridients.reduce(  
-            (bowl, ingridient, index) => {  
-             if (task.indexOf(ingridient.product) >= 0) {  
-               if (bowl.length === 0) {  
-                  return `${ingridient.action} ${ingridient.product}`  
-               }  
-               return `${bowl}, ${ingridient.action} ${ingridient.product}`  
-             }  
-             return bowl;  
-            },  "" )</pre></div>
+            <pre>const result1 = ingridients.reduce(
+            (bowl, ingridient, index) => {
+             if (task.indexOf(ingridient.product) >= 0) {
+               if (bowl.length === 0) {
+                  return `${ingridient.action} ${ingridient.product}`
+               }
+               return `${bowl}, ${ingridient.action} ${ingridient.product}`
+             }
+             return bowl;
+            }, "" )</pre></div>
 </body>
 </html>
