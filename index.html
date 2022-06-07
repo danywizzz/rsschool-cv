@@ -40,8 +40,8 @@
     <div class="section-code">
         <h2>Code Example</h2>
             <pre>const result1 = ingridients.reduce(
-            (bowl, ingridient, index) => {
-             if (task.indexOf(ingridient.product) >= 0) {
+            (bowl, ingridient, index) =&gt; {
+             if (task.indexOf(ingridient.product) &gt;= 0) {
                if (bowl.length === 0) {
                   return `${ingridient.action} ${ingridient.product}`
                }
